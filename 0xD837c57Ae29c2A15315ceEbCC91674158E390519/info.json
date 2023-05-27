@@ -1,0 +1,11 @@
+{
+ "name": "free wealth",
+ "website": "https://twitter.com/Nakamotohoi",
+ "description": ""FTH" (Free Wealth) means "freedom" and "wealth". Tokens will be issued by Twitter user "NakamotoHoi" on May 27, 2023, with a total of 21,000 tokens.",
+ "explorer": "https://bscscan.com/token/0xD837c57Ae29c2A15315ceEbCC91674158E390519",
+ "type": "BEP20",
+ "symbol": "FTH",
+ "decimals": 2,
+ "status": "active",
+ "id": "0xD837c57Ae29c2A15315ceEbCC91674158E390519"
+}
